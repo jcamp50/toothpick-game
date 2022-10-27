@@ -1,0 +1,186 @@
+********************************************************
+Welcome to Toothpick Game!
+Here are the rules.
+There are currently 31 toothpicks on the table.
+You and I will each get a turn to pick either 1, 2, or 3 toothpicks off the table.
+The player that gets to pick the last toothpicks loses the game!
+Sounds easy right? Well lets see if you can beat me!
+Ready to play?...Here we go!
+********************************************************
+Welcome to round 1!
+You may go first!
+********************************************************
+There are 31 toothpick(s) left on the table.
+How many toothpicks are you going to take off the table? 1
+Ok... you took 1 off the table.
+I'm making my decision now.
+I am taking 3 toothpick(s) off the table.
+********************************************************
+********************************************************
+There are 27 toothpick(s) left on the table.
+How many toothpicks are you going to take off the table? 2
+Ok... you took 2 off the table.
+I'm making my decision now.
+I am taking 2 toothpick(s) off the table.
+********************************************************
+********************************************************
+There are 23 toothpick(s) left on the table.
+How many toothpicks are you going to take off the table? 3
+Ok... you took 3 off the table.
+I'm making my decision now.
+I am taking 1 toothpick(s) off the table.
+********************************************************
+********************************************************
+There are 19 toothpick(s) left on the table.
+How many toothpicks are you going to take off the table? 2
+Ok... you took 2 off the table.
+I'm making my decision now.
+I am taking 2 toothpick(s) off the table.
+********************************************************
+********************************************************
+There are 15 toothpick(s) left on the table.
+How many toothpicks are you going to take off the table? 1
+Ok... you took 1 off the table.
+I'm making my decision now.
+I am taking 3 toothpick(s) off the table.
+********************************************************
+********************************************************
+There are 11 toothpick(s) left on the table.
+How many toothpicks are you going to take off the table? 2
+Ok... you took 2 off the table.
+I'm making my decision now.
+I am taking 2 toothpick(s) off the table.
+********************************************************
+********************************************************
+There are 7 toothpick(s) left on the table.
+How many toothpicks are you going to take off the table? 3
+Ok... you took 3 off the table.
+I'm making my decision now.
+I am taking 3 toothpick(s) off the table.
+********************************************************
+********************************************************
+There are 1 toothpick(s) left on the table.
+How many toothpicks are you going to take off the table? 1
+Ok... you took 1 off the table.
+I won! Haha better luck next time!
+Welcome to round 2!
+You may go first!
+********************************************************
+There are 31 toothpick(s) left on the table.
+How many toothpicks are you going to take off the table? 30
+Oh no no, you can't do that in this game! Try again.
+********************************************************
+********************************************************
+There are 31 toothpick(s) left on the table.
+How many toothpicks are you going to take off the table? 3
+Ok... you took 3 off the table.
+I'm making my decision now.
+I am taking 1 toothpick(s) off the table.
+********************************************************
+********************************************************
+There are 27 toothpick(s) left on the table.
+How many toothpicks are you going to take off the table? 2
+Ok... you took 2 off the table.
+I'm making my decision now.
+I am taking 2 toothpick(s) off the table.
+********************************************************
+********************************************************
+There are 23 toothpick(s) left on the table.
+How many toothpicks are you going to take off the table? 3
+Ok... you took 3 off the table.
+I'm making my decision now.
+I am taking 1 toothpick(s) off the table.
+********************************************************
+********************************************************
+There are 19 toothpick(s) left on the table.
+How many toothpicks are you going to take off the table? 2
+Ok... you took 2 off the table.
+I'm making my decision now.
+I am taking 2 toothpick(s) off the table.
+********************************************************
+********************************************************
+There are 15 toothpick(s) left on the table.
+How many toothpicks are you going to take off the table? 3
+Ok... you took 3 off the table.
+I'm making my decision now.
+I am taking 1 toothpick(s) off the table.
+********************************************************
+********************************************************
+There are 11 toothpick(s) left on the table.
+How many toothpicks are you going to take off the table? 2
+Ok... you took 2 off the table.
+I'm making my decision now.
+I am taking 2 toothpick(s) off the table.
+********************************************************
+********************************************************
+There are 7 toothpick(s) left on the table.
+How many toothpicks are you going to take off the table? 3
+Ok... you took 3 off the table.
+I'm making my decision now.
+I am taking 3 toothpick(s) off the table.
+********************************************************
+********************************************************
+There are 1 toothpick(s) left on the table.
+How many toothpicks are you going to take off the table? 1
+Ok... you took 1 off the table.
+I won! Haha better luck next time!
+Welcome to round 3!
+You may go first!
+********************************************************
+There are 31 toothpick(s) left on the table.
+How many toothpicks are you going to take off the table? 1
+Ok... you took 1 off the table.
+I'm making my decision now.
+I am taking 3 toothpick(s) off the table.
+********************************************************
+********************************************************
+There are 27 toothpick(s) left on the table.
+How many toothpicks are you going to take off the table? 3
+Ok... you took 3 off the table.
+I'm making my decision now.
+I am taking 1 toothpick(s) off the table.
+********************************************************
+********************************************************
+There are 23 toothpick(s) left on the table.
+How many toothpicks are you going to take off the table? 1
+Ok... you took 1 off the table.
+I'm making my decision now.
+I am taking 3 toothpick(s) off the table.
+********************************************************
+********************************************************
+There are 19 toothpick(s) left on the table.
+How many toothpicks are you going to take off the table? 3
+Ok... you took 3 off the table.
+I'm making my decision now.
+I am taking 1 toothpick(s) off the table.
+********************************************************
+********************************************************
+There are 15 toothpick(s) left on the table.
+How many toothpicks are you going to take off the table? 1
+Ok... you took 1 off the table.
+I'm making my decision now.
+I am taking 3 toothpick(s) off the table.
+********************************************************
+********************************************************
+There are 11 toothpick(s) left on the table.
+How many toothpicks are you going to take off the table? 3
+Ok... you took 3 off the table.
+I'm making my decision now.
+I am taking 1 toothpick(s) off the table.
+********************************************************
+********************************************************
+There are 7 toothpick(s) left on the table.
+How many toothpicks are you going to take off the table? 1
+Ok... you took 1 off the table.
+I'm making my decision now.
+I am taking 3 toothpick(s) off the table.
+********************************************************
+********************************************************
+There are 3 toothpick(s) left on the table.
+How many toothpicks are you going to take off the table? 2
+Ok... you took 2 off the table.
+I'm making my decision now.
+I am taking 1 toothpick(s) off the table.
+You won! I'll let you have this one.
+********************************************************
+Thank you for playing!

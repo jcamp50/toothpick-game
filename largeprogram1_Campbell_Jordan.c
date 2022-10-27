@@ -1,8 +1,3 @@
-//Jordan Campbell
-//Dr. Steinberg
-//COP3223C Section 1
-//Large Program 1 
-
 #define ROUNDS 3
 #include<stdio.h>
 #include<stdlib.h>
